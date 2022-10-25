@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/parallels/git-tutorial/build",
+  "command": "/usr/bin/aarch64-linux-gnu-gcc  -I/home/parallels/git-tutorial/include -g -o CMakeFiles/foo.dir/src/main.c.o -c /home/parallels/git-tutorial/src/main.c",
+  "file": "/home/parallels/git-tutorial/src/main.c"
+}
+]
