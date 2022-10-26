@@ -1,3 +1,4 @@
 /home/parallels/git-tutorial/build/CMakeFiles/foo.dir
+/home/parallels/git-tutorial/build/CMakeFiles/ESPL_LIB.dir
 /home/parallels/git-tutorial/build/CMakeFiles/edit_cache.dir
 /home/parallels/git-tutorial/build/CMakeFiles/rebuild_cache.dir

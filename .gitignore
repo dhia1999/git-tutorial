@@ -4,6 +4,7 @@
 *.exe~
 *.dll
 *.json
+*.jpg
 =======
 build/
 >>>>>>> merging

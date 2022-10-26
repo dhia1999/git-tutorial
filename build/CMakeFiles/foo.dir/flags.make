@@ -4,7 +4,7 @@
 # compile C with /usr/bin/aarch64-linux-gnu-gcc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/parallels/git-tutorial/include
+C_INCLUDES = -I/home/parallels/git-tutorial/include -I/home/parallels/git-tutorial/lib
 
 C_FLAGS = -g
 
