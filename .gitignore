@@ -1,12 +1,14 @@
-<<<<<<< HEAD
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.json
-*.jpg
 *.orig
 *.rej
+*.json
+*.jpg
+<<<<<<< HEAD
+*.orig
+*.rej
+build/
+bin/
+>>>>>>> merging
+=======
 build/
 bin/
 >>>>>>> merging
