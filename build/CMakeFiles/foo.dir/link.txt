@@ -1,1 +1,0 @@
-/usr/bin/aarch64-linux-gnu-gcc -g CMakeFiles/foo.dir/src/main.c.o -o ../bin/foo  libESPL_LIB.a 
