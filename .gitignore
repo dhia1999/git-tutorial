@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.json
 *.jpg
-=======
 build/
 >>>>>>> merging
