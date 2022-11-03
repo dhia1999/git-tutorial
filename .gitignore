@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 *.orig
 *.rej
 *.json
 *.jpg
 build/
 bin/
+=======
+doc/html
+doc/latex
+bin
+build
+>>>>>>> conflicts
