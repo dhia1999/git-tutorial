@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.orig
 *.rej
 *.json
@@ -7,8 +8,17 @@
 *.rej
 build/
 bin/
+<<<<<<< HEAD
 >>>>>>> merging
 =======
 build/
 bin/
+>>>>>>> merging
+=======
+=======
+doc/html
+doc/latex
+bin
+build
+>>>>>>> conflicts
 >>>>>>> merging
